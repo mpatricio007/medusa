@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="Nova_estruturaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="Nova_estruturaModelStoreContainer">
+          <EntitySet Name="sacados2" EntityType="Nova_estruturaModel.Store.sacados2" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="sacados2">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="NOME" Type="nvarchar" MaxLength="255" />
+          <Property Name="SOBRENOME" Type="nvarchar" MaxLength="255" />
+          <Property Name="CPF" Type="float" />
+          <Property Name="TIPO ENDEREÇO RESIDENCIAL" Type="varchar" MaxLength="50" />
+          <Property Name="ENDEREÇO RESIDENCIAL" Type="varchar" MaxLength="50" />
+          <Property Name="NÚMERO RESIDENCIAL" Type="varchar" MaxLength="50" />
+          <Property Name="COMPLEMENTO RESIDENCIAL" Type="varchar" MaxLength="50" />
+          <Property Name=" BAIRRO RESIDENCIAL" Type="varchar" MaxLength="30" />
+          <Property Name="CIDADE RESIDENCIAL" Type="varchar" MaxLength="100" />
+          <Property Name="UF RESIDENCIAL" Type="varchar" MaxLength="2" />
+          <Property Name="CEP RESIDENCIAL" Type="varchar" MaxLength="9" />
+          <Property Name="TELEFONE COMERCIAL" Type="nvarchar" MaxLength="255" />
+          <Property Name="TELEFONE RESIDENCIAL" Type="nvarchar" MaxLength="255" />
+          <Property Name="CELULAR" Type="float" />
+          <Property Name="email1" Type="nvarchar" MaxLength="255" />
+          <Property Name="email2" Type="nvarchar" MaxLength="255" />
+          <Property Name="email3" Type="nvarchar" MaxLength="255" />
+          <Property Name="status" Type="bit" />
+          <Property Name="obs" Type="varchar(max)" />
+        </EntityType>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Nova_estruturaModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="Nova_estruturaEntities" annotation:LazyLoadingEnabled="true" >
+          <EntitySet Name="sacados2" EntityType="Nova_estruturaModel.sacados2" />
+        </EntityContainer>
+        <EntityType Name="sacados2">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Type="Int32" Name="id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Type="String" Name="NOME" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="SOBRENOME" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="Double" Name="CPF" />
+          <Property Type="String" Name="TIPO_ENDEREÇO_RESIDENCIAL" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="ENDEREÇO_RESIDENCIAL" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="NÚMERO_RESIDENCIAL" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="COMPLEMENTO_RESIDENCIAL" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="C_BAIRRO_RESIDENCIAL" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="CIDADE_RESIDENCIAL" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="UF_RESIDENCIAL" MaxLength="2" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="CEP_RESIDENCIAL" MaxLength="9" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="TELEFONE_COMERCIAL" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="TELEFONE_RESIDENCIAL" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="Double" Name="CELULAR" />
+          <Property Type="String" Name="email1" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="email2" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="String" Name="email3" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Type="Boolean" Name="status" />
+          <Property Type="String" Name="obs" MaxLength="Max" FixedLength="false" Unicode="false" />
+        </EntityType>
+        </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Nova_estruturaModelStoreContainer" CdmEntityContainer="Nova_estruturaEntities" >
+          <EntitySetMapping Name="sacados2">
+            <EntityTypeMapping TypeName="Nova_estruturaModel.sacados2">
+              <MappingFragment StoreEntitySet="sacados2">
+                <ScalarProperty Name="obs" ColumnName="obs" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="email3" ColumnName="email3" />
+                <ScalarProperty Name="email2" ColumnName="email2" />
+                <ScalarProperty Name="email1" ColumnName="email1" />
+                <ScalarProperty Name="CELULAR" ColumnName="CELULAR" />
+                <ScalarProperty Name="TELEFONE_RESIDENCIAL" ColumnName="TELEFONE RESIDENCIAL" />
+                <ScalarProperty Name="TELEFONE_COMERCIAL" ColumnName="TELEFONE COMERCIAL" />
+                <ScalarProperty Name="CEP_RESIDENCIAL" ColumnName="CEP RESIDENCIAL" />
+                <ScalarProperty Name="UF_RESIDENCIAL" ColumnName="UF RESIDENCIAL" />
+                <ScalarProperty Name="CIDADE_RESIDENCIAL" ColumnName="CIDADE RESIDENCIAL" />
+                <ScalarProperty Name="C_BAIRRO_RESIDENCIAL" ColumnName=" BAIRRO RESIDENCIAL" />
+                <ScalarProperty Name="COMPLEMENTO_RESIDENCIAL" ColumnName="COMPLEMENTO RESIDENCIAL" />
+                <ScalarProperty Name="NÚMERO_RESIDENCIAL" ColumnName="NÚMERO RESIDENCIAL" />
+                <ScalarProperty Name="ENDEREÇO_RESIDENCIAL" ColumnName="ENDEREÇO RESIDENCIAL" />
+                <ScalarProperty Name="TIPO_ENDEREÇO_RESIDENCIAL" ColumnName="TIPO ENDEREÇO RESIDENCIAL" />
+                <ScalarProperty Name="CPF" ColumnName="CPF" />
+                <ScalarProperty Name="SOBRENOME" ColumnName="SOBRENOME" />
+                <ScalarProperty Name="NOME" ColumnName="NOME" />
+                <ScalarProperty Name="id" ColumnName="id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="ModelNovaEstrutura" >
+        <EntityTypeShape EntityType="Nova_estruturaModel.sacados2" Width="1.5" PointX="8.8401498351433077" PointY="4.60769465780244" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

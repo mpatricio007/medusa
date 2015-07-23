@@ -1,0 +1,786 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="MedusaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="MedusaModelStoreContainer">
+          <EntitySet Name="importOldFornecedor" EntityType="MedusaModel.Store.importOldFornecedor" store:Type="Views" store:Schema="dbo" store:Name="importOldFornecedor">
+            <DefiningQuery>SELECT 
+      [importOldFornecedor].[CNPJ] AS [CNPJ], 
+      [importOldFornecedor].[RAZAOSOCIAL] AS [RAZAOSOCIAL], 
+      [importOldFornecedor].[FANTASIA] AS [FANTASIA], 
+      [importOldFornecedor].[GRUPOECON] AS [GRUPOECON], 
+      [importOldFornecedor].[ENDERECO] AS [ENDERECO], 
+      [importOldFornecedor].[CEP] AS [CEP], 
+      [importOldFornecedor].[BAIRRO] AS [BAIRRO], 
+      [importOldFornecedor].[CIDADE] AS [CIDADE], 
+      [importOldFornecedor].[ESTADO] AS [ESTADO], 
+      [importOldFornecedor].[TELEFONE] AS [TELEFONE], 
+      [importOldFornecedor].[CXPOSTAL] AS [CXPOSTAL], 
+      [importOldFornecedor].[FAX] AS [FAX], 
+      [importOldFornecedor].[HOME_PAGE] AS [HOME_PAGE], 
+      [importOldFornecedor].[EMAIL] AS [EMAIL], 
+      [importOldFornecedor].[IE] AS [IE], 
+      [importOldFornecedor].[CCM] AS [CCM], 
+      [importOldFornecedor].[RAMOATIV] AS [RAMOATIV], 
+      [importOldFornecedor].[REGJUNTACIAL] AS [REGJUNTACIAL], 
+      [importOldFornecedor].[ULT_ALTERACAO] AS [ULT_ALTERACAO], 
+      [importOldFornecedor].[NUMERO] AS [NUMERO], 
+      [importOldFornecedor].[CAPITAL_SOCIAL] AS [CAPITAL_SOCIAL], 
+      [importOldFornecedor].[SOC1] AS [SOC1], 
+      [importOldFornecedor].[CPFSOC1] AS [CPFSOC1], 
+      [importOldFornecedor].[RGSOC1] AS [RGSOC1], 
+      [importOldFornecedor].[PERCSOC1] AS [PERCSOC1], 
+      [importOldFornecedor].[SOC2] AS [SOC2], 
+      [importOldFornecedor].[CPFSOC2] AS [CPFSOC2], 
+      [importOldFornecedor].[RGSOC2] AS [RGSOC2], 
+      [importOldFornecedor].[PERCSOC2] AS [PERCSOC2], 
+      [importOldFornecedor].[SOC3] AS [SOC3], 
+      [importOldFornecedor].[CPFSOC3] AS [CPFSOC3], 
+      [importOldFornecedor].[RGSOC3] AS [RGSOC3], 
+      [importOldFornecedor].[PERCSOC3] AS [PERCSOC3], 
+      [importOldFornecedor].[SOC4] AS [SOC4], 
+      [importOldFornecedor].[CPFSOC4] AS [CPFSOC4], 
+      [importOldFornecedor].[RGSOC4] AS [RGSOC4], 
+      [importOldFornecedor].[PERCSOC4] AS [PERCSOC4], 
+      [importOldFornecedor].[DIR1] AS [DIR1], 
+      [importOldFornecedor].[CARGODIR1] AS [CARGODIR1], 
+      [importOldFornecedor].[CPFDIR1] AS [CPFDIR1], 
+      [importOldFornecedor].[RGDIR1] AS [RGDIR1], 
+      [importOldFornecedor].[DIR2] AS [DIR2], 
+      [importOldFornecedor].[CARGODIR2] AS [CARGODIR2], 
+      [importOldFornecedor].[CPFDIR2] AS [CPFDIR2], 
+      [importOldFornecedor].[RGDIR2] AS [RGDIR2], 
+      [importOldFornecedor].[DIR3] AS [DIR3], 
+      [importOldFornecedor].[CARGODIR3] AS [CARGODIR3], 
+      [importOldFornecedor].[CPFDIR3] AS [CPFDIR3], 
+      [importOldFornecedor].[RGDIR3] AS [RGDIR3], 
+      [importOldFornecedor].[DIR4] AS [DIR4], 
+      [importOldFornecedor].[CARGODIR4] AS [CARGODIR4], 
+      [importOldFornecedor].[CPFDIR4] AS [CPFDIR4], 
+      [importOldFornecedor].[RGDIR4] AS [RGDIR4], 
+      [importOldFornecedor].[REPR] AS [REPR], 
+      [importOldFornecedor].[CPFREPR] AS [CPFREPR], 
+      [importOldFornecedor].[RGREPR] AS [RGREPR], 
+      [importOldFornecedor].[OUTRASINF] AS [OUTRASINF], 
+      [importOldFornecedor].[CLI1] AS [CLI1], 
+      [importOldFornecedor].[CONTCLI1] AS [CONTCLI1], 
+      [importOldFornecedor].[TELCLI1] AS [TELCLI1], 
+      [importOldFornecedor].[CLI2] AS [CLI2], 
+      [importOldFornecedor].[CONTCLI2] AS [CONTCLI2], 
+      [importOldFornecedor].[TELCLI2] AS [TELCLI2], 
+      [importOldFornecedor].[CLI3] AS [CLI3], 
+      [importOldFornecedor].[CONTCLI3] AS [CONTCLI3], 
+      [importOldFornecedor].[TELCLI3] AS [TELCLI3], 
+      [importOldFornecedor].[FOR1] AS [FOR1], 
+      [importOldFornecedor].[CONTFOR1] AS [CONTFOR1], 
+      [importOldFornecedor].[FONEFOR1] AS [FONEFOR1], 
+      [importOldFornecedor].[FOR2] AS [FOR2], 
+      [importOldFornecedor].[CONTFOR2] AS [CONTFOR2], 
+      [importOldFornecedor].[FONEFOR2] AS [FONEFOR2], 
+      [importOldFornecedor].[FOR3] AS [FOR3], 
+      [importOldFornecedor].[CONTFOR3] AS [CONTFOR3], 
+      [importOldFornecedor].[FONEFOR3] AS [FONEFOR3], 
+      [importOldFornecedor].[BCO1] AS [BCO1], 
+      [importOldFornecedor].[AGBCO1] AS [AGBCO1], 
+      [importOldFornecedor].[CONTBCO1] AS [CONTBCO1], 
+      [importOldFornecedor].[FONEBCO1] AS [FONEBCO1], 
+      [importOldFornecedor].[BCO2] AS [BCO2], 
+      [importOldFornecedor].[AGBCO2] AS [AGBCO2], 
+      [importOldFornecedor].[CONTBCO2] AS [CONTBCO2], 
+      [importOldFornecedor].[FONEBCO2] AS [FONEBCO2], 
+      [importOldFornecedor].[GERFIN] AS [GERFIN], 
+      [importOldFornecedor].[FONEGF] AS [FONEGF], 
+      [importOldFornecedor].[GERCTB] AS [GERCTB], 
+      [importOldFornecedor].[FONEGC] AS [FONEGC], 
+      [importOldFornecedor].[DATAATU] AS [DATAATU], 
+      [importOldFornecedor].[DATAENVIO] AS [DATAENVIO], 
+      [importOldFornecedor].[SITUACAO] AS [SITUACAO], 
+      [importOldFornecedor].[VALIDADE] AS [VALIDADE], 
+      [importOldFornecedor].[SENHA] AS [SENHA], 
+      [importOldFornecedor].[BLOQUEADO] AS [BLOQUEADO], 
+      [importOldFornecedor].[ANOBAL] AS [ANOBAL], 
+      [importOldFornecedor].[CN1] AS [CN1], 
+      [importOldFornecedor].[DAT1] AS [DAT1], 
+      [importOldFornecedor].[CN2] AS [CN2], 
+      [importOldFornecedor].[DAT2] AS [DAT2], 
+      [importOldFornecedor].[CN3] AS [CN3], 
+      [importOldFornecedor].[DAT3] AS [DAT3], 
+      [importOldFornecedor].[CN4] AS [CN4], 
+      [importOldFornecedor].[DAT4] AS [DAT4], 
+      [importOldFornecedor].[CN5] AS [CN5], 
+      [importOldFornecedor].[DAT5] AS [DAT5], 
+      [importOldFornecedor].[CN6] AS [CN6], 
+      [importOldFornecedor].[DAT6] AS [DAT6], 
+      [importOldFornecedor].[CN7] AS [CN7], 
+      [importOldFornecedor].[DAT7] AS [DAT7], 
+      [importOldFornecedor].[CN8] AS [CN8], 
+      [importOldFornecedor].[DAT8] AS [DAT8], 
+      [importOldFornecedor].[CN9] AS [CN9], 
+      [importOldFornecedor].[DAT9] AS [DAT9], 
+      [importOldFornecedor].[ETAPA] AS [ETAPA], 
+      [importOldFornecedor].[OBS] AS [OBS], 
+      [importOldFornecedor].[MODALIDADE] AS [MODALIDADE], 
+      [importOldFornecedor].[rdCnpj] AS [rdCnpj], 
+      [importOldFornecedor].[rdDeca] AS [rdDeca], 
+      [importOldFornecedor].[rdCcm] AS [rdCcm], 
+      [importOldFornecedor].[rdSe] AS [rdSe]
+      FROM [dbo].[importOldFornecedor] AS [importOldFornecedor]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+        <!--Errors Found During Generation:
+      warning 6002: The table/view 'Medusa.dbo.importOldFornecedor' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+        <EntityType Name="importOldFornecedor">
+          <Key>
+            <PropertyRef Name="CNPJ" />
+            <PropertyRef Name="RAZAOSOCIAL" />
+            <PropertyRef Name="FANTASIA" />
+            <PropertyRef Name="GRUPOECON" />
+            <PropertyRef Name="ENDERECO" />
+            <PropertyRef Name="CEP" />
+            <PropertyRef Name="BAIRRO" />
+            <PropertyRef Name="CIDADE" />
+            <PropertyRef Name="ESTADO" />
+            <PropertyRef Name="TELEFONE" />
+            <PropertyRef Name="CXPOSTAL" />
+            <PropertyRef Name="FAX" />
+            <PropertyRef Name="HOME_PAGE" />
+            <PropertyRef Name="EMAIL" />
+            <PropertyRef Name="IE" />
+            <PropertyRef Name="CCM" />
+            <PropertyRef Name="RAMOATIV" />
+            <PropertyRef Name="REGJUNTACIAL" />
+            <PropertyRef Name="NUMERO" />
+            <PropertyRef Name="CAPITAL_SOCIAL" />
+            <PropertyRef Name="SOC1" />
+            <PropertyRef Name="CPFSOC1" />
+            <PropertyRef Name="RGSOC1" />
+            <PropertyRef Name="PERCSOC1" />
+            <PropertyRef Name="SOC2" />
+            <PropertyRef Name="CPFSOC2" />
+            <PropertyRef Name="RGSOC2" />
+            <PropertyRef Name="PERCSOC2" />
+            <PropertyRef Name="SOC3" />
+            <PropertyRef Name="CPFSOC3" />
+            <PropertyRef Name="RGSOC3" />
+            <PropertyRef Name="PERCSOC3" />
+            <PropertyRef Name="SOC4" />
+            <PropertyRef Name="CPFSOC4" />
+            <PropertyRef Name="RGSOC4" />
+            <PropertyRef Name="PERCSOC4" />
+            <PropertyRef Name="DIR1" />
+            <PropertyRef Name="CARGODIR1" />
+            <PropertyRef Name="CPFDIR1" />
+            <PropertyRef Name="RGDIR1" />
+            <PropertyRef Name="DIR2" />
+            <PropertyRef Name="CARGODIR2" />
+            <PropertyRef Name="CPFDIR2" />
+            <PropertyRef Name="RGDIR2" />
+            <PropertyRef Name="DIR3" />
+            <PropertyRef Name="CARGODIR3" />
+            <PropertyRef Name="CPFDIR3" />
+            <PropertyRef Name="RGDIR3" />
+            <PropertyRef Name="DIR4" />
+            <PropertyRef Name="CARGODIR4" />
+            <PropertyRef Name="CPFDIR4" />
+            <PropertyRef Name="RGDIR4" />
+            <PropertyRef Name="REPR" />
+            <PropertyRef Name="CPFREPR" />
+            <PropertyRef Name="RGREPR" />
+            <PropertyRef Name="OUTRASINF" />
+            <PropertyRef Name="CLI1" />
+            <PropertyRef Name="CONTCLI1" />
+            <PropertyRef Name="TELCLI1" />
+            <PropertyRef Name="CLI2" />
+            <PropertyRef Name="CONTCLI2" />
+            <PropertyRef Name="TELCLI2" />
+            <PropertyRef Name="CLI3" />
+            <PropertyRef Name="CONTCLI3" />
+            <PropertyRef Name="TELCLI3" />
+            <PropertyRef Name="FOR1" />
+            <PropertyRef Name="CONTFOR1" />
+            <PropertyRef Name="FONEFOR1" />
+            <PropertyRef Name="FOR2" />
+            <PropertyRef Name="CONTFOR2" />
+            <PropertyRef Name="FONEFOR2" />
+            <PropertyRef Name="FOR3" />
+            <PropertyRef Name="CONTFOR3" />
+            <PropertyRef Name="FONEFOR3" />
+            <PropertyRef Name="BCO1" />
+            <PropertyRef Name="AGBCO1" />
+            <PropertyRef Name="CONTBCO1" />
+            <PropertyRef Name="FONEBCO1" />
+            <PropertyRef Name="BCO2" />
+            <PropertyRef Name="AGBCO2" />
+            <PropertyRef Name="CONTBCO2" />
+            <PropertyRef Name="FONEBCO2" />
+            <PropertyRef Name="GERFIN" />
+            <PropertyRef Name="FONEGF" />
+            <PropertyRef Name="GERCTB" />
+            <PropertyRef Name="FONEGC" />
+            <PropertyRef Name="DATAATU" />
+            <PropertyRef Name="DATAENVIO" />
+            <PropertyRef Name="SITUACAO" />
+            <PropertyRef Name="SENHA" />
+            <PropertyRef Name="BLOQUEADO" />
+            <PropertyRef Name="ANOBAL" />
+            <PropertyRef Name="CN1" />
+            <PropertyRef Name="CN2" />
+            <PropertyRef Name="CN3" />
+            <PropertyRef Name="CN4" />
+            <PropertyRef Name="CN5" />
+            <PropertyRef Name="CN6" />
+            <PropertyRef Name="CN7" />
+            <PropertyRef Name="CN8" />
+            <PropertyRef Name="CN9" />
+            <PropertyRef Name="ETAPA" />
+            <PropertyRef Name="OBS" />
+            <PropertyRef Name="MODALIDADE" />
+            <PropertyRef Name="rdCnpj" />
+            <PropertyRef Name="rdDeca" />
+            <PropertyRef Name="rdCcm" />
+            <PropertyRef Name="rdSe" />
+          </Key>
+          <Property Name="CNPJ" Type="nvarchar" Nullable="false" MaxLength="14" />
+          <Property Name="RAZAOSOCIAL" Type="nvarchar" Nullable="false" MaxLength="100" />
+          <Property Name="FANTASIA" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="GRUPOECON" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="ENDERECO" Type="nvarchar" Nullable="false" MaxLength="60" />
+          <Property Name="CEP" Type="nvarchar" Nullable="false" MaxLength="8" />
+          <Property Name="BAIRRO" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="CIDADE" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="ESTADO" Type="nvarchar" Nullable="false" MaxLength="2" />
+          <Property Name="TELEFONE" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="CXPOSTAL" Type="nvarchar" Nullable="false" MaxLength="5" />
+          <Property Name="FAX" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="HOME_PAGE" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="EMAIL" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="IE" Type="nvarchar" Nullable="false" MaxLength="20" />
+          <Property Name="CCM" Type="nvarchar" Nullable="false" MaxLength="20" />
+          <Property Name="RAMOATIV" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="REGJUNTACIAL" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="ULT_ALTERACAO" Type="date" />
+          <Property Name="NUMERO" Type="nvarchar" Nullable="false" MaxLength="20" />
+          <Property Name="CAPITAL_SOCIAL" Type="numeric" Nullable="false" Precision="10" />
+          <Property Name="SOC1" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="CPFSOC1" Type="nvarchar" Nullable="false" MaxLength="11" />
+          <Property Name="RGSOC1" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="PERCSOC1" Type="numeric" Nullable="false" Precision="10" />
+          <Property Name="SOC2" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="CPFSOC2" Type="nvarchar" Nullable="false" MaxLength="11" />
+          <Property Name="RGSOC2" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="PERCSOC2" Type="numeric" Nullable="false" Precision="10" />
+          <Property Name="SOC3" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="CPFSOC3" Type="nvarchar" Nullable="false" MaxLength="11" />
+          <Property Name="RGSOC3" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="PERCSOC3" Type="numeric" Nullable="false" Precision="10" />
+          <Property Name="SOC4" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="CPFSOC4" Type="nvarchar" Nullable="false" MaxLength="11" />
+          <Property Name="RGSOC4" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="PERCSOC4" Type="numeric" Nullable="false" Precision="10" />
+          <Property Name="DIR1" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="CARGODIR1" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="CPFDIR1" Type="nvarchar" Nullable="false" MaxLength="11" />
+          <Property Name="RGDIR1" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="DIR2" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="CARGODIR2" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="CPFDIR2" Type="nvarchar" Nullable="false" MaxLength="11" />
+          <Property Name="RGDIR2" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="DIR3" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="CARGODIR3" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="CPFDIR3" Type="nvarchar" Nullable="false" MaxLength="11" />
+          <Property Name="RGDIR3" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="DIR4" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="CARGODIR4" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="CPFDIR4" Type="nvarchar" Nullable="false" MaxLength="11" />
+          <Property Name="RGDIR4" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="REPR" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="CPFREPR" Type="nvarchar" Nullable="false" MaxLength="11" />
+          <Property Name="RGREPR" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="OUTRASINF" Type="ntext" Nullable="false" />
+          <Property Name="CLI1" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="CONTCLI1" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="TELCLI1" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="CLI2" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="CONTCLI2" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="TELCLI2" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="CLI3" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="CONTCLI3" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="TELCLI3" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="FOR1" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="CONTFOR1" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="FONEFOR1" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="FOR2" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="CONTFOR2" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="FONEFOR2" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="FOR3" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="CONTFOR3" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="FONEFOR3" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="BCO1" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="AGBCO1" Type="nvarchar" Nullable="false" MaxLength="10" />
+          <Property Name="CONTBCO1" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="FONEBCO1" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="BCO2" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="AGBCO2" Type="nvarchar" Nullable="false" MaxLength="10" />
+          <Property Name="CONTBCO2" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="FONEBCO2" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="GERFIN" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="FONEGF" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="GERCTB" Type="nvarchar" Nullable="false" MaxLength="40" />
+          <Property Name="FONEGC" Type="nvarchar" Nullable="false" MaxLength="30" />
+          <Property Name="DATAATU" Type="date" Nullable="false" />
+          <Property Name="DATAENVIO" Type="date" Nullable="false" />
+          <Property Name="SITUACAO" Type="int" Nullable="false" />
+          <Property Name="VALIDADE" Type="date" />
+          <Property Name="SENHA" Type="nvarchar" Nullable="false" MaxLength="20" />
+          <Property Name="BLOQUEADO" Type="int" Nullable="false" />
+          <Property Name="ANOBAL" Type="int" Nullable="false" />
+          <Property Name="CN1" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="DAT1" Type="date" />
+          <Property Name="CN2" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="DAT2" Type="date" />
+          <Property Name="CN3" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="DAT3" Type="date" />
+          <Property Name="CN4" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="DAT4" Type="date" />
+          <Property Name="CN5" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="DAT5" Type="date" />
+          <Property Name="CN6" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="DAT6" Type="date" />
+          <Property Name="CN7" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="DAT7" Type="date" />
+          <Property Name="CN8" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="DAT8" Type="date" />
+          <Property Name="CN9" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="DAT9" Type="date" />
+          <Property Name="ETAPA" Type="int" Nullable="false" />
+          <Property Name="OBS" Type="ntext" Nullable="false" />
+          <Property Name="MODALIDADE" Type="nchar" Nullable="false" MaxLength="1" />
+          <Property Name="rdCnpj" Type="nvarchar" Nullable="false" MaxLength="3" />
+          <Property Name="rdDeca" Type="nvarchar" Nullable="false" MaxLength="3" />
+          <Property Name="rdCcm" Type="nvarchar" Nullable="false" MaxLength="3" />
+          <Property Name="rdSe" Type="nvarchar" Nullable="false" MaxLength="3" />
+        </EntityType>
+        <!--Errors Found During Generation:
+      warning 6013: The table/view 'Medusa.dbo.sacados2' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+      
+      <EntityType Name="sacados2">
+        <Property Name="NOME" Type="nvarchar" MaxLength="255" />
+        <Property Name="SOBRENOME" Type="nvarchar" MaxLength="255" />
+        <Property Name="CPF" Type="float" />
+        <Property Name="TIPO ENDEREÇO RESIDENCIAL" Type="nvarchar" MaxLength="255" />
+        <Property Name="ENDEREÇO RESIDENCIAL" Type="nvarchar" MaxLength="255" />
+        <Property Name="NÚMERO RESIDENCIAL" Type="float" />
+        <Property Name="COMPLEMENTO RESIDENCIAL" Type="nvarchar" MaxLength="255" />
+        <Property Name=" BAIRRO RESIDENCIAL" Type="nvarchar" MaxLength="255" />
+        <Property Name="CIDADE RESIDENCIAL" Type="nvarchar" MaxLength="255" />
+        <Property Name="UF RESIDENCIAL" Type="nvarchar" MaxLength="255" />
+        <Property Name="CEP RESIDENCIAL" Type="nvarchar" MaxLength="255" />
+        <Property Name="TELEFONE COMERCIAL" Type="nvarchar" MaxLength="255" />
+        <Property Name="TELEFONE RESIDENCIAL" Type="nvarchar" MaxLength="255" />
+        <Property Name="CELULAR" Type="float" />
+        <Property Name="email1" Type="nvarchar" MaxLength="255" />
+        <Property Name="email2" Type="nvarchar" MaxLength="255" />
+        <Property Name="email3" Type="nvarchar" MaxLength="255" />
+        <Property Name="Vencimento" Type="nvarchar" MaxLength="255" />
+        <Property Name="Desconto" Type="nvarchar" MaxLength="255" />
+        <Property Name="N° de parcelas" Type="float" />
+        <Property Name="Valor da parcela 1" Type="money" />
+        <Property Name="Valor da parcela 2 a 23" Type="money" />
+        <Property Name="valor parcela 24" Type="money" />
+        <Property Name="OBS#" Type="nvarchar" MaxLength="255" />
+      </EntityType>-->
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="MedusaModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="MedusaEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="importOldFornecedor" EntityType="MedusaModel.importOldFornecedor" />
+        </EntityContainer>
+        <EntityType Name="importOldFornecedor">
+          <Key>
+            <PropertyRef Name="CNPJ" />
+            <PropertyRef Name="RAZAOSOCIAL" />
+            <PropertyRef Name="FANTASIA" />
+            <PropertyRef Name="GRUPOECON" />
+            <PropertyRef Name="ENDERECO" />
+            <PropertyRef Name="CEP" />
+            <PropertyRef Name="BAIRRO" />
+            <PropertyRef Name="CIDADE" />
+            <PropertyRef Name="ESTADO" />
+            <PropertyRef Name="TELEFONE" />
+            <PropertyRef Name="CXPOSTAL" />
+            <PropertyRef Name="FAX" />
+            <PropertyRef Name="HOME_PAGE" />
+            <PropertyRef Name="EMAIL" />
+            <PropertyRef Name="IE" />
+            <PropertyRef Name="CCM" />
+            <PropertyRef Name="RAMOATIV" />
+            <PropertyRef Name="REGJUNTACIAL" />
+            <PropertyRef Name="NUMERO" />
+            <PropertyRef Name="CAPITAL_SOCIAL" />
+            <PropertyRef Name="SOC1" />
+            <PropertyRef Name="CPFSOC1" />
+            <PropertyRef Name="RGSOC1" />
+            <PropertyRef Name="PERCSOC1" />
+            <PropertyRef Name="SOC2" />
+            <PropertyRef Name="CPFSOC2" />
+            <PropertyRef Name="RGSOC2" />
+            <PropertyRef Name="PERCSOC2" />
+            <PropertyRef Name="SOC3" />
+            <PropertyRef Name="CPFSOC3" />
+            <PropertyRef Name="RGSOC3" />
+            <PropertyRef Name="PERCSOC3" />
+            <PropertyRef Name="SOC4" />
+            <PropertyRef Name="CPFSOC4" />
+            <PropertyRef Name="RGSOC4" />
+            <PropertyRef Name="PERCSOC4" />
+            <PropertyRef Name="DIR1" />
+            <PropertyRef Name="CARGODIR1" />
+            <PropertyRef Name="CPFDIR1" />
+            <PropertyRef Name="RGDIR1" />
+            <PropertyRef Name="DIR2" />
+            <PropertyRef Name="CARGODIR2" />
+            <PropertyRef Name="CPFDIR2" />
+            <PropertyRef Name="RGDIR2" />
+            <PropertyRef Name="DIR3" />
+            <PropertyRef Name="CARGODIR3" />
+            <PropertyRef Name="CPFDIR3" />
+            <PropertyRef Name="RGDIR3" />
+            <PropertyRef Name="DIR4" />
+            <PropertyRef Name="CARGODIR4" />
+            <PropertyRef Name="CPFDIR4" />
+            <PropertyRef Name="RGDIR4" />
+            <PropertyRef Name="REPR" />
+            <PropertyRef Name="CPFREPR" />
+            <PropertyRef Name="RGREPR" />
+            <PropertyRef Name="OUTRASINF" />
+            <PropertyRef Name="CLI1" />
+            <PropertyRef Name="CONTCLI1" />
+            <PropertyRef Name="TELCLI1" />
+            <PropertyRef Name="CLI2" />
+            <PropertyRef Name="CONTCLI2" />
+            <PropertyRef Name="TELCLI2" />
+            <PropertyRef Name="CLI3" />
+            <PropertyRef Name="CONTCLI3" />
+            <PropertyRef Name="TELCLI3" />
+            <PropertyRef Name="FOR1" />
+            <PropertyRef Name="CONTFOR1" />
+            <PropertyRef Name="FONEFOR1" />
+            <PropertyRef Name="FOR2" />
+            <PropertyRef Name="CONTFOR2" />
+            <PropertyRef Name="FONEFOR2" />
+            <PropertyRef Name="FOR3" />
+            <PropertyRef Name="CONTFOR3" />
+            <PropertyRef Name="FONEFOR3" />
+            <PropertyRef Name="BCO1" />
+            <PropertyRef Name="AGBCO1" />
+            <PropertyRef Name="CONTBCO1" />
+            <PropertyRef Name="FONEBCO1" />
+            <PropertyRef Name="BCO2" />
+            <PropertyRef Name="AGBCO2" />
+            <PropertyRef Name="CONTBCO2" />
+            <PropertyRef Name="FONEBCO2" />
+            <PropertyRef Name="GERFIN" />
+            <PropertyRef Name="FONEGF" />
+            <PropertyRef Name="GERCTB" />
+            <PropertyRef Name="FONEGC" />
+            <PropertyRef Name="DATAATU" />
+            <PropertyRef Name="DATAENVIO" />
+            <PropertyRef Name="SITUACAO" />
+            <PropertyRef Name="SENHA" />
+            <PropertyRef Name="BLOQUEADO" />
+            <PropertyRef Name="ANOBAL" />
+            <PropertyRef Name="CN1" />
+            <PropertyRef Name="CN2" />
+            <PropertyRef Name="CN3" />
+            <PropertyRef Name="CN4" />
+            <PropertyRef Name="CN5" />
+            <PropertyRef Name="CN6" />
+            <PropertyRef Name="CN7" />
+            <PropertyRef Name="CN8" />
+            <PropertyRef Name="CN9" />
+            <PropertyRef Name="ETAPA" />
+            <PropertyRef Name="OBS" />
+            <PropertyRef Name="MODALIDADE" />
+            <PropertyRef Name="rdCnpj" />
+            <PropertyRef Name="rdDeca" />
+            <PropertyRef Name="rdCcm" />
+            <PropertyRef Name="rdSe" />
+          </Key>
+          <Property Name="CNPJ" Type="String" Nullable="false" MaxLength="14" Unicode="true" FixedLength="false" />
+          <Property Name="RAZAOSOCIAL" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="FANTASIA" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="GRUPOECON" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="ENDERECO" Type="String" Nullable="false" MaxLength="60" Unicode="true" FixedLength="false" />
+          <Property Name="CEP" Type="String" Nullable="false" MaxLength="8" Unicode="true" FixedLength="false" />
+          <Property Name="BAIRRO" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="CIDADE" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="ESTADO" Type="String" Nullable="false" MaxLength="2" Unicode="true" FixedLength="false" />
+          <Property Name="TELEFONE" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="CXPOSTAL" Type="String" Nullable="false" MaxLength="5" Unicode="true" FixedLength="false" />
+          <Property Name="FAX" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="HOME_PAGE" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="EMAIL" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="IE" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+          <Property Name="CCM" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+          <Property Name="RAMOATIV" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="REGJUNTACIAL" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="ULT_ALTERACAO" Type="DateTime" Precision="0" />
+          <Property Name="NUMERO" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+          <Property Name="CAPITAL_SOCIAL" Type="Decimal" Nullable="false" Precision="10" Scale="0" />
+          <Property Name="SOC1" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="CPFSOC1" Type="String" Nullable="false" MaxLength="11" Unicode="true" FixedLength="false" />
+          <Property Name="RGSOC1" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="PERCSOC1" Type="Decimal" Nullable="false" Precision="10" Scale="0" />
+          <Property Name="SOC2" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="CPFSOC2" Type="String" Nullable="false" MaxLength="11" Unicode="true" FixedLength="false" />
+          <Property Name="RGSOC2" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="PERCSOC2" Type="Decimal" Nullable="false" Precision="10" Scale="0" />
+          <Property Name="SOC3" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="CPFSOC3" Type="String" Nullable="false" MaxLength="11" Unicode="true" FixedLength="false" />
+          <Property Name="RGSOC3" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="PERCSOC3" Type="Decimal" Nullable="false" Precision="10" Scale="0" />
+          <Property Name="SOC4" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="CPFSOC4" Type="String" Nullable="false" MaxLength="11" Unicode="true" FixedLength="false" />
+          <Property Name="RGSOC4" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="PERCSOC4" Type="Decimal" Nullable="false" Precision="10" Scale="0" />
+          <Property Name="DIR1" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="CARGODIR1" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="CPFDIR1" Type="String" Nullable="false" MaxLength="11" Unicode="true" FixedLength="false" />
+          <Property Name="RGDIR1" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="DIR2" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="CARGODIR2" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="CPFDIR2" Type="String" Nullable="false" MaxLength="11" Unicode="true" FixedLength="false" />
+          <Property Name="RGDIR2" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="DIR3" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="CARGODIR3" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="CPFDIR3" Type="String" Nullable="false" MaxLength="11" Unicode="true" FixedLength="false" />
+          <Property Name="RGDIR3" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="DIR4" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="CARGODIR4" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="CPFDIR4" Type="String" Nullable="false" MaxLength="11" Unicode="true" FixedLength="false" />
+          <Property Name="RGDIR4" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="REPR" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="CPFREPR" Type="String" Nullable="false" MaxLength="11" Unicode="true" FixedLength="false" />
+          <Property Name="RGREPR" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="OUTRASINF" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Name="CLI1" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="CONTCLI1" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="TELCLI1" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="CLI2" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="CONTCLI2" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="TELCLI2" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="CLI3" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="CONTCLI3" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="TELCLI3" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="FOR1" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="CONTFOR1" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="FONEFOR1" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="FOR2" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="CONTFOR2" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="FONEFOR2" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="FOR3" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="CONTFOR3" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="FONEFOR3" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="BCO1" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="AGBCO1" Type="String" Nullable="false" MaxLength="10" Unicode="true" FixedLength="false" />
+          <Property Name="CONTBCO1" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="FONEBCO1" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="BCO2" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="AGBCO2" Type="String" Nullable="false" MaxLength="10" Unicode="true" FixedLength="false" />
+          <Property Name="CONTBCO2" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="FONEBCO2" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="GERFIN" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="FONEGF" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="GERCTB" Type="String" Nullable="false" MaxLength="40" Unicode="true" FixedLength="false" />
+          <Property Name="FONEGC" Type="String" Nullable="false" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="DATAATU" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="DATAENVIO" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="SITUACAO" Type="Int32" Nullable="false" />
+          <Property Name="VALIDADE" Type="DateTime" Precision="0" />
+          <Property Name="SENHA" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="false" />
+          <Property Name="BLOQUEADO" Type="Int32" Nullable="false" />
+          <Property Name="ANOBAL" Type="Int32" Nullable="false" />
+          <Property Name="CN1" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="DAT1" Type="DateTime" Precision="0" />
+          <Property Name="CN2" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="DAT2" Type="DateTime" Precision="0" />
+          <Property Name="CN3" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="DAT3" Type="DateTime" Precision="0" />
+          <Property Name="CN4" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="DAT4" Type="DateTime" Precision="0" />
+          <Property Name="CN5" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="DAT5" Type="DateTime" Precision="0" />
+          <Property Name="CN6" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="DAT6" Type="DateTime" Precision="0" />
+          <Property Name="CN7" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="DAT7" Type="DateTime" Precision="0" />
+          <Property Name="CN8" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="DAT8" Type="DateTime" Precision="0" />
+          <Property Name="CN9" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="DAT9" Type="DateTime" Precision="0" />
+          <Property Name="ETAPA" Type="Int32" Nullable="false" />
+          <Property Name="OBS" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Name="MODALIDADE" Type="String" Nullable="false" MaxLength="1" Unicode="true" FixedLength="true" />
+          <Property Name="rdCnpj" Type="String" Nullable="false" MaxLength="3" Unicode="true" FixedLength="false" />
+          <Property Name="rdDeca" Type="String" Nullable="false" MaxLength="3" Unicode="true" FixedLength="false" />
+          <Property Name="rdCcm" Type="String" Nullable="false" MaxLength="3" Unicode="true" FixedLength="false" />
+          <Property Name="rdSe" Type="String" Nullable="false" MaxLength="3" Unicode="true" FixedLength="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="MedusaModelStoreContainer" CdmEntityContainer="MedusaEntities">
+          <EntitySetMapping Name="importOldFornecedor"><EntityTypeMapping TypeName="MedusaModel.importOldFornecedor"><MappingFragment StoreEntitySet="importOldFornecedor">
+            <ScalarProperty Name="CNPJ" ColumnName="CNPJ" />
+            <ScalarProperty Name="RAZAOSOCIAL" ColumnName="RAZAOSOCIAL" />
+            <ScalarProperty Name="FANTASIA" ColumnName="FANTASIA" />
+            <ScalarProperty Name="GRUPOECON" ColumnName="GRUPOECON" />
+            <ScalarProperty Name="ENDERECO" ColumnName="ENDERECO" />
+            <ScalarProperty Name="CEP" ColumnName="CEP" />
+            <ScalarProperty Name="BAIRRO" ColumnName="BAIRRO" />
+            <ScalarProperty Name="CIDADE" ColumnName="CIDADE" />
+            <ScalarProperty Name="ESTADO" ColumnName="ESTADO" />
+            <ScalarProperty Name="TELEFONE" ColumnName="TELEFONE" />
+            <ScalarProperty Name="CXPOSTAL" ColumnName="CXPOSTAL" />
+            <ScalarProperty Name="FAX" ColumnName="FAX" />
+            <ScalarProperty Name="HOME_PAGE" ColumnName="HOME_PAGE" />
+            <ScalarProperty Name="EMAIL" ColumnName="EMAIL" />
+            <ScalarProperty Name="IE" ColumnName="IE" />
+            <ScalarProperty Name="CCM" ColumnName="CCM" />
+            <ScalarProperty Name="RAMOATIV" ColumnName="RAMOATIV" />
+            <ScalarProperty Name="REGJUNTACIAL" ColumnName="REGJUNTACIAL" />
+            <ScalarProperty Name="ULT_ALTERACAO" ColumnName="ULT_ALTERACAO" />
+            <ScalarProperty Name="NUMERO" ColumnName="NUMERO" />
+            <ScalarProperty Name="CAPITAL_SOCIAL" ColumnName="CAPITAL_SOCIAL" />
+            <ScalarProperty Name="SOC1" ColumnName="SOC1" />
+            <ScalarProperty Name="CPFSOC1" ColumnName="CPFSOC1" />
+            <ScalarProperty Name="RGSOC1" ColumnName="RGSOC1" />
+            <ScalarProperty Name="PERCSOC1" ColumnName="PERCSOC1" />
+            <ScalarProperty Name="SOC2" ColumnName="SOC2" />
+            <ScalarProperty Name="CPFSOC2" ColumnName="CPFSOC2" />
+            <ScalarProperty Name="RGSOC2" ColumnName="RGSOC2" />
+            <ScalarProperty Name="PERCSOC2" ColumnName="PERCSOC2" />
+            <ScalarProperty Name="SOC3" ColumnName="SOC3" />
+            <ScalarProperty Name="CPFSOC3" ColumnName="CPFSOC3" />
+            <ScalarProperty Name="RGSOC3" ColumnName="RGSOC3" />
+            <ScalarProperty Name="PERCSOC3" ColumnName="PERCSOC3" />
+            <ScalarProperty Name="SOC4" ColumnName="SOC4" />
+            <ScalarProperty Name="CPFSOC4" ColumnName="CPFSOC4" />
+            <ScalarProperty Name="RGSOC4" ColumnName="RGSOC4" />
+            <ScalarProperty Name="PERCSOC4" ColumnName="PERCSOC4" />
+            <ScalarProperty Name="DIR1" ColumnName="DIR1" />
+            <ScalarProperty Name="CARGODIR1" ColumnName="CARGODIR1" />
+            <ScalarProperty Name="CPFDIR1" ColumnName="CPFDIR1" />
+            <ScalarProperty Name="RGDIR1" ColumnName="RGDIR1" />
+            <ScalarProperty Name="DIR2" ColumnName="DIR2" />
+            <ScalarProperty Name="CARGODIR2" ColumnName="CARGODIR2" />
+            <ScalarProperty Name="CPFDIR2" ColumnName="CPFDIR2" />
+            <ScalarProperty Name="RGDIR2" ColumnName="RGDIR2" />
+            <ScalarProperty Name="DIR3" ColumnName="DIR3" />
+            <ScalarProperty Name="CARGODIR3" ColumnName="CARGODIR3" />
+            <ScalarProperty Name="CPFDIR3" ColumnName="CPFDIR3" />
+            <ScalarProperty Name="RGDIR3" ColumnName="RGDIR3" />
+            <ScalarProperty Name="DIR4" ColumnName="DIR4" />
+            <ScalarProperty Name="CARGODIR4" ColumnName="CARGODIR4" />
+            <ScalarProperty Name="CPFDIR4" ColumnName="CPFDIR4" />
+            <ScalarProperty Name="RGDIR4" ColumnName="RGDIR4" />
+            <ScalarProperty Name="REPR" ColumnName="REPR" />
+            <ScalarProperty Name="CPFREPR" ColumnName="CPFREPR" />
+            <ScalarProperty Name="RGREPR" ColumnName="RGREPR" />
+            <ScalarProperty Name="OUTRASINF" ColumnName="OUTRASINF" />
+            <ScalarProperty Name="CLI1" ColumnName="CLI1" />
+            <ScalarProperty Name="CONTCLI1" ColumnName="CONTCLI1" />
+            <ScalarProperty Name="TELCLI1" ColumnName="TELCLI1" />
+            <ScalarProperty Name="CLI2" ColumnName="CLI2" />
+            <ScalarProperty Name="CONTCLI2" ColumnName="CONTCLI2" />
+            <ScalarProperty Name="TELCLI2" ColumnName="TELCLI2" />
+            <ScalarProperty Name="CLI3" ColumnName="CLI3" />
+            <ScalarProperty Name="CONTCLI3" ColumnName="CONTCLI3" />
+            <ScalarProperty Name="TELCLI3" ColumnName="TELCLI3" />
+            <ScalarProperty Name="FOR1" ColumnName="FOR1" />
+            <ScalarProperty Name="CONTFOR1" ColumnName="CONTFOR1" />
+            <ScalarProperty Name="FONEFOR1" ColumnName="FONEFOR1" />
+            <ScalarProperty Name="FOR2" ColumnName="FOR2" />
+            <ScalarProperty Name="CONTFOR2" ColumnName="CONTFOR2" />
+            <ScalarProperty Name="FONEFOR2" ColumnName="FONEFOR2" />
+            <ScalarProperty Name="FOR3" ColumnName="FOR3" />
+            <ScalarProperty Name="CONTFOR3" ColumnName="CONTFOR3" />
+            <ScalarProperty Name="FONEFOR3" ColumnName="FONEFOR3" />
+            <ScalarProperty Name="BCO1" ColumnName="BCO1" />
+            <ScalarProperty Name="AGBCO1" ColumnName="AGBCO1" />
+            <ScalarProperty Name="CONTBCO1" ColumnName="CONTBCO1" />
+            <ScalarProperty Name="FONEBCO1" ColumnName="FONEBCO1" />
+            <ScalarProperty Name="BCO2" ColumnName="BCO2" />
+            <ScalarProperty Name="AGBCO2" ColumnName="AGBCO2" />
+            <ScalarProperty Name="CONTBCO2" ColumnName="CONTBCO2" />
+            <ScalarProperty Name="FONEBCO2" ColumnName="FONEBCO2" />
+            <ScalarProperty Name="GERFIN" ColumnName="GERFIN" />
+            <ScalarProperty Name="FONEGF" ColumnName="FONEGF" />
+            <ScalarProperty Name="GERCTB" ColumnName="GERCTB" />
+            <ScalarProperty Name="FONEGC" ColumnName="FONEGC" />
+            <ScalarProperty Name="DATAATU" ColumnName="DATAATU" />
+            <ScalarProperty Name="DATAENVIO" ColumnName="DATAENVIO" />
+            <ScalarProperty Name="SITUACAO" ColumnName="SITUACAO" />
+            <ScalarProperty Name="VALIDADE" ColumnName="VALIDADE" />
+            <ScalarProperty Name="SENHA" ColumnName="SENHA" />
+            <ScalarProperty Name="BLOQUEADO" ColumnName="BLOQUEADO" />
+            <ScalarProperty Name="ANOBAL" ColumnName="ANOBAL" />
+            <ScalarProperty Name="CN1" ColumnName="CN1" />
+            <ScalarProperty Name="DAT1" ColumnName="DAT1" />
+            <ScalarProperty Name="CN2" ColumnName="CN2" />
+            <ScalarProperty Name="DAT2" ColumnName="DAT2" />
+            <ScalarProperty Name="CN3" ColumnName="CN3" />
+            <ScalarProperty Name="DAT3" ColumnName="DAT3" />
+            <ScalarProperty Name="CN4" ColumnName="CN4" />
+            <ScalarProperty Name="DAT4" ColumnName="DAT4" />
+            <ScalarProperty Name="CN5" ColumnName="CN5" />
+            <ScalarProperty Name="DAT5" ColumnName="DAT5" />
+            <ScalarProperty Name="CN6" ColumnName="CN6" />
+            <ScalarProperty Name="DAT6" ColumnName="DAT6" />
+            <ScalarProperty Name="CN7" ColumnName="CN7" />
+            <ScalarProperty Name="DAT7" ColumnName="DAT7" />
+            <ScalarProperty Name="CN8" ColumnName="CN8" />
+            <ScalarProperty Name="DAT8" ColumnName="DAT8" />
+            <ScalarProperty Name="CN9" ColumnName="CN9" />
+            <ScalarProperty Name="DAT9" ColumnName="DAT9" />
+            <ScalarProperty Name="ETAPA" ColumnName="ETAPA" />
+            <ScalarProperty Name="OBS" ColumnName="OBS" />
+            <ScalarProperty Name="MODALIDADE" ColumnName="MODALIDADE" />
+            <ScalarProperty Name="rdCnpj" ColumnName="rdCnpj" />
+            <ScalarProperty Name="rdDeca" ColumnName="rdDeca" />
+            <ScalarProperty Name="rdCcm" ColumnName="rdCcm" />
+            <ScalarProperty Name="rdSe" ColumnName="rdSe" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="ImportMedusa" ZoomLevel="59">
+        <EntityTypeShape EntityType="MedusaModel.importOldFornecedor" Width="1.5" PointX="0.875" PointY="4" Height="23.902649739583335" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

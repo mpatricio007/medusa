@@ -1,0 +1,682 @@
+C:\New Medusa\Medusa\WebMedusa\bin\Medusa.dll
+C:\New Medusa\Medusa\WebMedusa\bin\Medusa.pdb
+C:\New Medusa\Medusa\WebMedusa\obj\Debug\Medusa.dll
+C:\New Medusa\Medusa\WebMedusa\obj\Debug\Medusa.pdb
+C:\New Medusa\Medusa\WebMedusa\obj\Debug\RdlCompile.cache
+C:\New Medusa\Medusa\WebMedusa\obj\Debug\RdlCompile.compiled
+C:\New Medusa\Medusa\WebMedusa\bin\ar\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\cs\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\de\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\es\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\fr\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\he\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\hi\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\it\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\ja\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\ko\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\nl\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\pt\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\ru\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\New Medusa\Medusa\WebMedusa\bin\AjaxControlToolkit.dll
+C:\New Medusa\Medusa\WebMedusa\bin\AjaxControlToolkit.pdb
+C:\New Medusa\Medusa\WebMedusa\obj\Debug\Medusa.csprojResolveAssemblyReference.cache
+C:\New Medusa\Medusa\WebMedusa\bin\EntityFramework.dll
+C:\New Medusa\Medusa\WebMedusa\bin\migrate.exe
+C:\New Medusa\Medusa\WebMedusa\bin\EntityFramework.xml
+C:\NewMedusaSS\Medusa\WebMedusa\bin\Medusa.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\Medusa.pdb
+C:\NewMedusaSS\Medusa\WebMedusa\bin\EntityFramework.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\migrate.exe
+C:\NewMedusaSS\Medusa\WebMedusa\bin\AjaxControlToolkit.pdb
+C:\NewMedusaSS\Medusa\WebMedusa\bin\EntityFramework.xml
+C:\NewMedusaSS\Medusa\WebMedusa\obj\Debug\RdlCompile.cache
+C:\NewMedusaSS\Medusa\WebMedusa\obj\Debug\RdlCompile.compiled
+C:\NewMedusaSS\Medusa\WebMedusa\obj\Debug\Medusa.dll
+C:\NewMedusaSS\Medusa\WebMedusa\obj\Debug\Medusa.pdb
+C:\NewMedusaSS\Medusa\WebMedusa\bin\Boleto.Net.pdb
+C:\NewMedusaSS\Medusa\WebMedusa\bin\Sistemas\Cobranca\ImagemCodigoBarra.ashx
+C:\NewMedusaSS\Medusa\WebMedusa\bin\AjaxControlToolkit.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\ar\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\cs\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\de\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\es\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\fr\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\he\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\hi\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\it\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\ja\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\ko\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\nl\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\pt\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\ru\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\NewMedusaSS\Medusa\WebMedusa\obj\Debug\ResolveAssemblyReference.cache
+C:\MedusaTfs\Medusa\WebMedusa\bin\Sistemas\Cobranca\ImagemCodigoBarra.ashx
+C:\MedusaTfs\Medusa\WebMedusa\bin\Medusa.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\Medusa.pdb
+C:\MedusaTfs\Medusa\WebMedusa\obj\Debug\RdlCompile.cache
+C:\MedusaTfs\Medusa\WebMedusa\obj\Debug\RdlCompile.compiled
+C:\MedusaTfs\Medusa\WebMedusa\obj\Debug\Medusa.dll
+C:\MedusaTfs\Medusa\WebMedusa\obj\Debug\Medusa.pdb
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamento.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamentoAtraso.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamentoViagem.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioDiariasAtraso.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Arquivo\REtiquetaArq.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Cobranca\RelatorioSacadoR.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Cobranca\RelatorioBoletoR.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelatorioDepIdentificadoR.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelDadosImportados.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelLanctoPorTipo.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelSaldoContas.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelSaldoTipoConta.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\PessoaJuridica\RelatorioCRC.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\PessoaJuridica\RelatorioFornecedor.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Projeto\RelatorioProjeto.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Projeto\REtiquetaCoordenador.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Projeto\RProjeto.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Projeto\RSolicitacao.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Recepcao\RelatorioEntrada.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Recepcao\RelatorioEntradaSaida.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\REComodatos\REtiquetaComodato.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\REComodatos\RPatrimonio.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\TaxasReceitasRm\RelatorioTaxasReceitasRm.rdlc
+C:\MedusaTfs\Medusa\WebMedusa\obj\Debug\Medusa.csprojResolveAssemblyReference.cache
+C:\MedusaTfs\Medusa\WebMedusa\bin\EntityFramework.xml
+C:\MedusaTfs\Medusa\WebMedusa\bin\HtmlAgilityPack.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\Microsoft.CSharp.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\Microsoft.Data.Services.Client.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\Microsoft.Data.Services.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.ComponentModel.Composition.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.ComponentModel.DataAnnotations.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.Configuration.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.Data.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.Data.Entity.Design.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.Drawing.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.EnterpriseServices.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.Runtime.Serialization.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.Security.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.ServiceModel.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.ServiceModel.Web.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.Web.ApplicationServices.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.Web.DynamicData.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.Web.Entity.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.Web.Services.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.Xml.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\Microsoft.Data.Services.xml
+C:\MedusaTfs\Medusa\WebMedusa\bin\Microsoft.Data.Services.Client.xml
+C:\MedusaTfs\Medusa\WebMedusa\bin\Styles\MasterPage.master
+C:\MedusaTfs\Medusa\WebMedusa\bin\Styles\MasterPage.master.cs
+C:\MedusaTfs\Medusa\WebMedusa\bin\Microsoft.Data.Edm.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\Microsoft.Data.OData.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.Spatial.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\Microsoft.Data.Edm.xml
+C:\MedusaTfs\Medusa\WebMedusa\bin\Microsoft.Data.OData.xml
+C:\MedusaTfs\Medusa\WebMedusa\bin\System.Spatial.xml
+C:\MedusaTfs\Medusa\WebMedusa\bin\de\Microsoft.Data.Edm.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\es\Microsoft.Data.Edm.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\it\Microsoft.Data.Edm.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\de\Microsoft.Data.OData.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\es\Microsoft.Data.OData.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\fr\Microsoft.Data.OData.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\it\Microsoft.Data.OData.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ja\Microsoft.Data.OData.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ko\Microsoft.Data.OData.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ru\Microsoft.Data.OData.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\de\Microsoft.Data.Services.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\es\Microsoft.Data.Services.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\fr\Microsoft.Data.Services.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\it\Microsoft.Data.Services.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ja\Microsoft.Data.Services.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ko\Microsoft.Data.Services.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ru\Microsoft.Data.Services.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Services.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Services.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\de\System.Spatial.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\es\System.Spatial.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\fr\System.Spatial.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\it\System.Spatial.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ja\System.Spatial.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ko\System.Spatial.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ru\System.Spatial.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\zh-Hans\System.Spatial.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\zh-Hant\System.Spatial.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\EntityFramework.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ar\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\cs\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\de\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\es\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\fr\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\he\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\hi\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\it\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ja\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ko\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\nl\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\pt\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\ru\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\MedusaTfs\Medusa\WebMedusa\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\MedusaTfs\Medusa\WebMedusa\bin\Relatorios\Contratos\RelatorioVContratosPessoa.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Styles\MasterPage.master
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamento.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamentoAtraso.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamentoViagem.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioDiariasAtraso.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Arquivo\REtiquetaArq.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Cobranca\RelatorioSacadoR.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Cobranca\RelatorioBoletoR.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelatorioDepIdentificadoR.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelDadosImportados.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelLanctoPorTipo.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelSaldoContas.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelSaldoTipoConta.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Contratos\RelatorioVContratosPessoa.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\PessoaJuridica\RelatorioCRC.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\PessoaJuridica\RelatorioFornecedor.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Projeto\RelatorioProjeto.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Projeto\REtiquetaCoordenador.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Projeto\RProjeto.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Projeto\RSolicitacao.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Recepcao\RelatorioEntrada.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Recepcao\RelatorioEntradaSaida.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\REComodatos\REtiquetaComodato.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\REComodatos\RPatrimonio.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\TaxasReceitasRm\RelatorioTaxasReceitasRm.rdlc
+C:\Medusa Produção\Medusa\WebMedusa\bin\Styles\MasterPage.master.cs
+C:\Medusa Produção\Medusa\WebMedusa\bin\Sistemas\Cobranca\ImagemCodigoBarra.ashx
+C:\Medusa Produção\Medusa\WebMedusa\bin\Medusa.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\Medusa.pdb
+C:\Medusa Produção\Medusa\WebMedusa\bin\EntityFramework.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\HtmlAgilityPack.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.CSharp.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Edm.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.OData.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Services.Client.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Services.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.ReportViewer.WebForms.DLL
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.ComponentModel.Composition.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.ComponentModel.DataAnnotations.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.Configuration.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.Data.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.Data.Entity.Design.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.Drawing.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.EnterpriseServices.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.Runtime.Serialization.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.Security.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.ServiceModel.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.ServiceModel.Web.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.Spatial.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.Web.ApplicationServices.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.Web.DynamicData.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.Web.Entity.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.Web.Services.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.Xml.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\EntityFramework.xml
+C:\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Edm.xml
+C:\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.OData.xml
+C:\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Services.xml
+C:\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Services.Client.xml
+C:\Medusa Produção\Medusa\WebMedusa\bin\System.Spatial.xml
+C:\Medusa Produção\Medusa\WebMedusa\bin\ar\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\cs\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\de\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\es\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\fr\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\he\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\hi\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\it\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ja\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ko\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\nl\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\pt\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ru\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\de\Microsoft.Data.OData.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\es\Microsoft.Data.OData.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\it\Microsoft.Data.OData.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\de\Microsoft.Data.Services.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\es\Microsoft.Data.Services.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\fr\Microsoft.Data.Services.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\it\Microsoft.Data.Services.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ja\Microsoft.Data.Services.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ko\Microsoft.Data.Services.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ru\Microsoft.Data.Services.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Services.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Services.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\de\System.Spatial.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\es\System.Spatial.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\fr\System.Spatial.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\it\System.Spatial.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ja\System.Spatial.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ko\System.Spatial.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\ru\System.Spatial.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\System.Spatial.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\System.Spatial.resources.dll
+C:\Medusa Produção\Medusa\WebMedusa\obj\Debug\Medusa.csprojResolveAssemblyReference.cache
+C:\Medusa Produção\Medusa\WebMedusa\obj\Debug\RdlCompile.cache
+C:\Medusa Produção\Medusa\WebMedusa\obj\Debug\RdlCompile.compiled
+C:\Medusa Produção\Medusa\WebMedusa\obj\Debug\Medusa.dll
+C:\Medusa Produção\Medusa\WebMedusa\obj\Debug\Medusa.pdb
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Styles\MasterPage.master
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamento.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamentoAtraso.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamentoViagem.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioDiariasAtraso.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Arquivo\REtiquetaArq.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Cobranca\RelatorioSacadoR.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Cobranca\RelatorioBoletoR.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelatorioDepIdentificadoR.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelDadosImportados.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelLanctoPorTipo.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelSaldoContas.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelSaldoTipoConta.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Contratos\RelatorioVContratosPessoa.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\PessoaJuridica\RelatorioCRC.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\PessoaJuridica\RelatorioFornecedor.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Projeto\RelatorioProjeto.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Projeto\REtiquetaCoordenador.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Projeto\RProjeto.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Projeto\RSolicitacao.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Recepcao\RelatorioEntrada.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Recepcao\RelatorioEntradaSaida.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\REComodatos\REtiquetaComodato.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\REComodatos\RPatrimonio.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\TaxasReceitasRm\RelatorioTaxasReceitasRm.rdlc
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Styles\MasterPage.master.cs
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Sistemas\Cobranca\ImagemCodigoBarra.ashx
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Medusa.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Medusa.pdb
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\EntityFramework.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\HtmlAgilityPack.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.CSharp.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Edm.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.OData.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Services.Client.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Services.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.ReportViewer.WebForms.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.ComponentModel.Composition.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.ComponentModel.DataAnnotations.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Configuration.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Data.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Data.Entity.Design.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Drawing.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.EnterpriseServices.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Runtime.Serialization.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Security.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.ServiceModel.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.ServiceModel.Web.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Spatial.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Web.ApplicationServices.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Web.DynamicData.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Web.Entity.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Web.Services.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Xml.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\EntityFramework.xml
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Edm.xml
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.OData.xml
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Services.xml
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Services.Client.xml
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.ReportViewer.WebForms.xml
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Spatial.xml
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ar\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\cs\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\de\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\es\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\fr\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\he\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\hi\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\it\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ja\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ko\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\nl\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\pt\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ru\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\tr-TR\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-CHS\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-CHT\AjaxControlToolkit.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\de\Microsoft.Data.Edm.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\es\Microsoft.Data.Edm.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\fr\Microsoft.Data.Edm.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\it\Microsoft.Data.Edm.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ja\Microsoft.Data.Edm.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ko\Microsoft.Data.Edm.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ru\Microsoft.Data.Edm.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\de\Microsoft.Data.OData.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\es\Microsoft.Data.OData.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\fr\Microsoft.Data.OData.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\it\Microsoft.Data.OData.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ja\Microsoft.Data.OData.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ko\Microsoft.Data.OData.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ru\Microsoft.Data.OData.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\de\Microsoft.Data.Services.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\es\Microsoft.Data.Services.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\fr\Microsoft.Data.Services.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\it\Microsoft.Data.Services.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ja\Microsoft.Data.Services.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ko\Microsoft.Data.Services.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ru\Microsoft.Data.Services.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Services.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Services.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\de\Microsoft.Data.Services.Client.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\es\Microsoft.Data.Services.Client.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\fr\Microsoft.Data.Services.Client.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\it\Microsoft.Data.Services.Client.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ja\Microsoft.Data.Services.Client.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ko\Microsoft.Data.Services.Client.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ru\Microsoft.Data.Services.Client.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\de\System.Spatial.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\es\System.Spatial.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\fr\System.Spatial.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\it\System.Spatial.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ja\System.Spatial.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ko\System.Spatial.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ru\System.Spatial.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\System.Spatial.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\System.Spatial.resources.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\obj\Debug\Medusa.csprojResolveAssemblyReference.cache
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\obj\Debug\RdlCompile.cache
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\obj\Debug\RdlCompile.compiled
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\obj\Debug\Medusa.dll
+Z:\Informatica\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\obj\Debug\Medusa.pdb
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Styles\MasterPage.master
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamento.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamentoAtraso.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamentoViagem.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioDiariasAtraso.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Arquivo\REtiquetaArq.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Cobranca\RelatorioSacadoR.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Cobranca\RelatorioBoletoR.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelatorioDepIdentificadoR.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelDadosImportados.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelLanctoPorTipo.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelSaldoContas.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelSaldoTipoConta.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Contratos\RelatorioVContratosPessoa.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\PessoaJuridica\RelatorioCRC.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\PessoaJuridica\RelatorioFornecedor.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Projeto\RelatorioProjeto.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Projeto\REtiquetaCoordenador.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Projeto\RProjeto.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Projeto\RSolicitacao.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Recepcao\RelatorioEntrada.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\Recepcao\RelatorioEntradaSaida.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\REComodatos\REtiquetaComodato.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\REComodatos\RPatrimonio.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Relatorios\TaxasReceitasRm\RelatorioTaxasReceitasRm.rdlc
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Styles\MasterPage.master.cs
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Sistemas\Cobranca\ImagemCodigoBarra.ashx
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Medusa.dll.config
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Medusa.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Medusa.pdb
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\EntityFramework.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\HtmlAgilityPack.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.CSharp.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Edm.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.OData.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Services.Client.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Services.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.ReportViewer.WebForms.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.ComponentModel.Composition.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.ComponentModel.DataAnnotations.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Configuration.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Data.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Data.Entity.Design.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Drawing.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.EnterpriseServices.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Runtime.Serialization.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Security.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.ServiceModel.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.ServiceModel.Web.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Spatial.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Web.ApplicationServices.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Web.DynamicData.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Web.Entity.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Web.Services.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Xml.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\EntityFramework.xml
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Edm.xml
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.OData.xml
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Services.xml
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.Data.Services.Client.xml
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\Microsoft.ReportViewer.WebForms.xml
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\System.Spatial.xml
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ar\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\cs\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\de\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\es\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\fr\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\he\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\hi\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\it\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ja\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ko\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\nl\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\pt\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ru\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\tr-TR\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-CHS\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-CHT\AjaxControlToolkit.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\de\Microsoft.Data.Edm.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\es\Microsoft.Data.Edm.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\fr\Microsoft.Data.Edm.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\it\Microsoft.Data.Edm.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ja\Microsoft.Data.Edm.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ko\Microsoft.Data.Edm.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ru\Microsoft.Data.Edm.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\de\Microsoft.Data.OData.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\es\Microsoft.Data.OData.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\fr\Microsoft.Data.OData.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\it\Microsoft.Data.OData.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ja\Microsoft.Data.OData.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ko\Microsoft.Data.OData.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ru\Microsoft.Data.OData.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\de\Microsoft.Data.Services.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\es\Microsoft.Data.Services.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\fr\Microsoft.Data.Services.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\it\Microsoft.Data.Services.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ja\Microsoft.Data.Services.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ko\Microsoft.Data.Services.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ru\Microsoft.Data.Services.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Services.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Services.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\de\Microsoft.Data.Services.Client.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\es\Microsoft.Data.Services.Client.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\fr\Microsoft.Data.Services.Client.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\it\Microsoft.Data.Services.Client.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ja\Microsoft.Data.Services.Client.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ko\Microsoft.Data.Services.Client.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ru\Microsoft.Data.Services.Client.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\de\System.Spatial.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\es\System.Spatial.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\fr\System.Spatial.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\it\System.Spatial.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ja\System.Spatial.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ko\System.Spatial.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\ru\System.Spatial.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hans\System.Spatial.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\bin\zh-Hant\System.Spatial.resources.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\obj\Debug\Medusa.csprojResolveAssemblyReference.cache
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\obj\Debug\RdlCompile.cache
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\obj\Debug\RdlCompile.compiled
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\obj\Debug\Medusa.dll
+A:\INF_Privado\sistemas\Medusa Produção\Medusa\WebMedusa\obj\Debug\Medusa.pdb
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Styles\MasterPage.master
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamento.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamentoAtraso.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioAdiantamentoViagem.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Adiantamentos\RelatorioDiariasAtraso.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Arquivo\REtiquetaArq.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Cobranca\RelatorioSacadoR.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Cobranca\RelatorioBoletoR.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelatorioDepIdentificadoR.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelDadosImportados.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelLanctoPorTipo.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelSaldoContas.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Conciliacao\RelSaldoTipoConta.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Contratos\RelatorioVContratosPessoa.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\PessoaJuridica\RelatorioCRC.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\PessoaJuridica\RelatorioFornecedor.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Projeto\RelatorioProjeto.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Projeto\REtiquetaCoordenador.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Projeto\RProjeto.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Projeto\RSolicitacao.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Recepcao\RelatorioEntrada.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\Recepcao\RelatorioEntradaSaida.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\REComodatos\REtiquetaComodato.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\REComodatos\RPatrimonio.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Relatorios\TaxasReceitasRm\RelatorioTaxasReceitasRm.rdlc
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Styles\MasterPage.master.cs
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Sistemas\Cobranca\ImagemCodigoBarra.ashx
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Medusa.dll.config
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Medusa.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Medusa.pdb
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\EntityFramework.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\HtmlAgilityPack.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Microsoft.CSharp.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Microsoft.Data.Edm.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Microsoft.Data.OData.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Microsoft.Data.Services.Client.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Microsoft.Data.Services.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.ComponentModel.Composition.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.ComponentModel.DataAnnotations.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.Configuration.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.Data.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.Data.Entity.Design.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.Drawing.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.EnterpriseServices.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.Runtime.Serialization.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.Security.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.ServiceModel.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.ServiceModel.Web.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.Spatial.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.Web.ApplicationServices.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.Web.DynamicData.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.Web.Entity.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.Web.Services.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.Xml.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\EntityFramework.xml
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Microsoft.Data.Edm.xml
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Microsoft.Data.OData.xml
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Microsoft.Data.Services.xml
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Microsoft.Data.Services.Client.xml
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\Microsoft.ReportViewer.WebForms.xml
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\System.Spatial.xml
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\de\Microsoft.Data.OData.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\es\Microsoft.Data.OData.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\it\Microsoft.Data.OData.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\de\Microsoft.Data.Services.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\es\Microsoft.Data.Services.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\fr\Microsoft.Data.Services.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\it\Microsoft.Data.Services.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ja\Microsoft.Data.Services.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ko\Microsoft.Data.Services.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ru\Microsoft.Data.Services.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Services.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Services.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\de\System.Spatial.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\es\System.Spatial.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\fr\System.Spatial.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\it\System.Spatial.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ja\System.Spatial.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ko\System.Spatial.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\ru\System.Spatial.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\zh-Hans\System.Spatial.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\bin\zh-Hant\System.Spatial.resources.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\obj\Debug\RdlCompile.cache
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\obj\Debug\RdlCompile.compiled
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\obj\Debug\Medusa.dll
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\obj\Debug\Medusa.pdb
+C:\Sistemas\Medusa_Producao\Medusa\WebMedusa\obj\Debug\Medusa.csprojResolveAssemblyReference.cache

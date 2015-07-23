@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using Medusa.DAL;
+
+namespace Medusa.BLL
+{
+    public class SacadoBLL : PessoaFisBLL<Sacado>
+    {
+        public override void Add()
+        {
+            ObjEF.data_cadastro = DateTime.Now;
+            base.Add();
+        }
+    }
+}
