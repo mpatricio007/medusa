@@ -332,12 +332,9 @@ namespace Medusa.LIB
 
         protected virtual void SetGrid()
         {
-            if (_ddlSize.SelectedValue == "0")
-                _grid.PageSize = 50;
-            else
-                _grid.PageSize = Convert.ToInt32(_ddlSize.SelectedValue);
+            _grid.PageSize = _ddlSize.SelectedValue == "0" ? 50 : Convert.ToInt32(_ddlSize.SelectedValue);
 
-            int size = 10 * Convert.ToInt32(this._ddlSize.SelectedValue);
+            var size = 10 * Convert.ToInt32(this._ddlSize.SelectedValue);
             _grid.DataKeyNames = new string[] { PRIMARY_KEY };
             _grid.DataSource = ObjBLL.Find(
                 filtros,

@@ -243,7 +243,7 @@ namespace Medusa.Sistemas.PessoaJuridica
             var SortDirection = (string)ViewState["SortDirection"];
             SortDirection = SortDirection ?? "ASC";
 
-            Filter f = new Filter()
+            var f = new Filter()
             {
                 property = "StatusFornecedor.gerenciavel",
                 value = Convert.ToString(true),
@@ -251,9 +251,25 @@ namespace Medusa.Sistemas.PessoaJuridica
             };
             filtros.Add(f);
 
-            int size = 10 * Convert.ToInt32(this._ddlSize.SelectedValue);
-            _grid.DataKeyNames = new string[] { PRIMARY_KEY };
-            _grid.DataSource = ObjBLL.Find(filtros, SortExpression, SortDirection, size);//.OfType<Fornecedor>().ToList().Where(it => it.StrSocios.Contains(txtProcuraSocio.Text)).ToList();
+            
+
+            var size = 10 * Convert.ToInt32(this._ddlSize.SelectedValue);
+
+
+
+
+            var ds = ObjBLL.Find(filtros.Where(k => k.property != "Socios.nome" || k.property != "Diretores.nome").ToList(), SortExpression,
+                    SortDirection, 0).OfType<Fornecedor>().ToList();
+            if (filtros.Any(k => k.property == "Socios.nome"))
+                ds = ds.Where(it => it.StrSocios.ToUpper().Contains(txtProcura.Text.ToUpper())).ToList();
+
+            if (filtros.Any(k => k.property == "Diretores.nome"))
+                ds = ds.Where(it => it.StrDiretores.ToUpper().Contains(txtProcura.Text.ToUpper())).ToList();
+            
+
+            
+            _grid.DataKeyNames = new[] { PRIMARY_KEY };
+            _grid.DataSource = ds.Take(size).ToList();
             _grid.DataBind();
             filtros.Remove(f);
         }

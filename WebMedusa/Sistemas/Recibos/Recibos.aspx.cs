@@ -152,7 +152,7 @@ namespace Medusa.Sistemas.Recibos
             btExcluir0.Visible = true;
             btCancelar.Visible = false;
             btCancelar0.Visible = false;
-            panelCheques.Visible = ObjBLL.Exists() ? ObjBLL.ObjEF.status_recibo.GetValueOrDefault() : true;
+            panelCheques.Visible = !ObjBLL.Exists() || ObjBLL.ObjEF.status_recibo.GetValueOrDefault();
             btImprimirRecibo.Visible = true;
             btImprimirRecibo0.Visible = true;
             rbDocumento.Enabled = false;
@@ -299,7 +299,5 @@ namespace Medusa.Sistemas.Recibos
             rcBLL.Get(Convert.ToInt32(lista.SelectedValue));
             cValor.Value = rcBLL.ObjEF.valor;
         }
-
-     
     }
 }

@@ -212,12 +212,29 @@ namespace Medusa.DAL
         }
 
         [NotMapped]
+        [Invisible]
         public string StrSocios 
         {
             get 
             {
                 StringBuilder s = new StringBuilder();
                 foreach (var item in Socios)
+                {
+                    s.AppendFormat(" {0}", item.nome);
+                }
+                return s.ToString();
+            }
+            set { } 
+        }
+
+        [NotMapped]
+        [Invisible]
+        public string StrDiretores
+        {
+            get 
+            {
+                StringBuilder s = new StringBuilder();
+                foreach (var item in Diretores)
                 {
                     s.AppendFormat(" {0}", item.nome);
                 }
